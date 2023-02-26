@@ -1,7 +1,6 @@
 # harsad-mehta
 <html>
 <head>
-<title> my 1st work </title>
 <body>
 	<img src="C:\Users\ITS\Desktop/harsad mehta.jpeg" />
 <h1> THE BIGGEST SCAM OF 1992 </h1>
